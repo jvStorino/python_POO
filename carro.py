@@ -16,7 +16,7 @@ class Carro:
     def fabricante(self):
         return self.fabricante
     
-    fabricante.setter
+    @fabricante.setter
     def fabricante(self, valor):
         self.fabricante = valor
 
